@@ -6,3 +6,6 @@ console.log(val.length)
 console.log("naveen")
 
 
+console.log("naveen")
+console.log("kumar")
+
